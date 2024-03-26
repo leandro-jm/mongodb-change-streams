@@ -1,6 +1,6 @@
 const { MongoClient } = require("mongodb");
 
-const uri = "mongodb+srv://admin:P0o9i8u7@cluster0.qw1ec1w.mongodb.net/";
+const uri = "mongodb+srv://admin:<password>@xxxxx.mongodb.net/";
 const dbName = "sample_airbnb";
 
 async function main() {
