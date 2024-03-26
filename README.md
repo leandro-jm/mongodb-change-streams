@@ -19,6 +19,7 @@ $ npm install
 ```bash
 # development
 $ node index.js
+```
 
 ## Support
 
